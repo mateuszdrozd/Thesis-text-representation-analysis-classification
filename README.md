@@ -1,7 +1,7 @@
 # Analiza skuteczności wybranych metod osadzania słów w zadaniach przetwarzania języka naturalnego
 
-[Sprawdź Raport](https://github.com/mateuszdrozd/)
-
+[Sprawdź Raport]([https://github.com/mateuszdrozd/](https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/blob/main/Praca_Inzynierska.pdf))
+[Przetestuj aplikację](https://huggingface.co/spaces/MateuszDrozd/Wykrywanie_emocji_z_tekstu)
 ## Opis pracy
 
 Badania skupiają się na analizie i porównaniu skuteczności różnych metod osadzania słów (statystycznych, statycznych i kontekstowych) w zadaniu klasyfikacji emocji w tekście. Praca obejmuje również weryfikację współczesnych modeli tłumaczenia maszynowego w celu obsługi wielojęzycznych danych tekstowych w aplikacjach działających w czasie rzeczywistym.
@@ -43,7 +43,9 @@ Realizacja projektu została podzielona na dwa kluczowe etapy:
 
 # Analysis of the Effectiveness of Selected Word Embedding Methods in Natural Language Processing Tasks
 
-[Check Raport](https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/Praca_Inzynierska.pdf)
+[Check Raport]([https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/Praca_Inzynierska.pdf](https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/blob/main/Praca_Inzynierska.pdf))
+[Test application](https://huggingface.co/spaces/MateuszDrozd/Wykrywanie_emocji_z_tekstu)
+
 ## Thesis Overview
 
 The research focuses on analyzing and comparing the effectiveness of various word embedding methods (statistical, static, and contextual) in the task of text emotion classification. It also includes the verification of modern machine translation models to support multilingual text inputs in real-time applications.
