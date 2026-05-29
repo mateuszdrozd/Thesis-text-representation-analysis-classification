@@ -1,6 +1,6 @@
 # Analiza skuteczności wybranych metod osadzania słów w zadaniach przetwarzania języka naturalnego
 
-[Sprawdź Raport]([https://github.com/mateuszdrozd/](https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/blob/main/Praca_Inzynierska.pdf))
+[Sprawdź Raport]([https://github.com/mateuszdrozd/](https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/blob/main/Praca_Inzynierska.pdf)
 
 [Przetestuj aplikację](https://huggingface.co/spaces/MateuszDrozd/Wykrywanie_emocji_z_tekstu)
 ## Opis pracy
@@ -44,7 +44,7 @@ Realizacja projektu została podzielona na dwa kluczowe etapy:
 
 # Analysis of the Effectiveness of Selected Word Embedding Methods in Natural Language Processing Tasks
 
-[Check Raport]([https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/Praca_Inzynierska.pdf](https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/blob/main/Praca_Inzynierska.pdf))
+[Check Raport]([https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/Praca_Inzynierska.pdf](https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/blob/main/Praca_Inzynierska.pdf)
 
 [Test application](https://huggingface.co/spaces/MateuszDrozd/Wykrywanie_emocji_z_tekstu)
 
