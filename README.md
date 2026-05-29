@@ -1,6 +1,6 @@
 # Analiza skuteczności wybranych metod osadzania słów w zadaniach przetwarzania języka naturalnego
 
-[Sprawdź Raport]([https://github.com/mateuszdrozd/](https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/blob/main/Praca_Inzynierska.pdf)
+[Sprawdź Raport](https://github.com/mateuszdrozd/thesis-text-representation-analysis-classification/blob/main/Praca_Inzynierska.pdf)
 
 [Przetestuj aplikację](https://huggingface.co/spaces/MateuszDrozd/Wykrywanie_emocji_z_tekstu)
 ## Opis pracy
